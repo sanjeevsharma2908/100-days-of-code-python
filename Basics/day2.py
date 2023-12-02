@@ -1,7 +1,7 @@
 
 # Welcome to the Tip Calculator
 print("Welcome to the Tip Calculator.")
-amt = int(input('What was the total bill?'))
+amt = float(input('What was the total bill?'))
 tip = int(input("What percentage of tip would you like to give?"))
 split_in = int(input('How many people to split the bill?'))
 

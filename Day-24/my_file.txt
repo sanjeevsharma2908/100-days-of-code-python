@@ -1,1 +1,286 @@
-currently I'am Learning Python
+currently I'am LearnComputer Organization and Operating System (A6-R5.1) Syllabus Matrix (Print-Friendly)
+Total Marks: 100 | Theory: 48 hrs | Practical: 72 hrs
+Unit Topic Theory
+(hrs)
+Practical
+(hrs) Marks Learning
+Objectives
+Important
+Questions Resources
+1
+Basic
+Structure of
+Computers
+4 6 5 - Computer
+components
+and functions - Von Neumann
+Architecture
+1. Explain Von
+Neumann
+Architecture.
+2. Describe
+components of a
+computer system. - GeeksforGeeks:
+Computer
+Organization - Tutorialspoint:
+Computer
+Architecture
+2
+Computer
+Arithmetic
+Operations
+8 12 10 - Logic gates,
+Boolean algebra - Fixed and
+floating-point
+representation - Binary
+arithmetic
+1. Explain 1’s and 2’s
+complement
+arithmetic.
+2. Describe floating
+point
+representation.
+3. Simplify a Boolean
+expression using K
+map. - GeeksforGeeks:
+Number Systems - Tutorialspoint:
+Boolean Algebra - YouTube:
+Binary
+Arithmetic
+3 CPU and
+Instructions 8 12 8 - General
+registers - Instruction
+types, formats - Addressing
+modes, PCB
+1. Explain types of
+addressing modes.
+2. Describe
+instruction cycle
+with diagram.
+3. What is PCB?
+Explain its role. - GeeksforGeeks:
+CPU
+Organization - Tutorialspoint:
+Addressing
+Modes - YouTube:
+Instruction Cycle
+4 Memory
+Organization 4 6 8 - Primary,
+Secondary,
+Cache, Virtual
+memory - RAID
+1. Differentiate
+between cache and
+virtual memory.
+2. Explain RAID
+levels with
+examples.
+3. Describe memory
+hierarchy. - GeeksforGeeks:
+Memory
+Organization - Tutorialspoint:
+RAID - YouTube:
+Cache Memory
+5 I/O
+Organization 4 6 9 - Peripheral
+devices - Data transfer
+modes - Interrupts,
+DMA
+1. Explain types of
+interrupts.
+2. Describe DMA and
+its advantages.
+3. Compare
+synchronous vs.
+asynchronous data - GeeksforGeeks:
+I/O Organization - Tutorialspoint:
+DMA - YouTube:
+Interrupts
+transfer.
+1. List types of
+operating systems
+with examples.
+6
+7
+8
+9
+Operating
+Systems
+Overview
+Linux Basics
+Process
+Management
+and Shell
+Script
+Users, Groups,
+Permissions
+10 Standard I/O
+and Pipes
+2
+4
+8
+2
+2
+3
+6
+12
+3
+3
+8
+16
+13
+10
+8 - Types of OS - OS functions,
+kernel, shell - System calls - Linux file
+system,
+commands
+(who, ls, cp, rm) - File
+operations,
+grep, man
+pages - Process states,
+PCB - Scheduling
+techniques - Shell scripting,
+background
+tasks - File
+permissions - User/group
+management - chown,
+chmod, umask - Redirect I/O - Piping, tee
+command
+2. Explain kernel vs.
+shell.
+3. What are system
+calls? Give examples.
+1. Write commands
+to create/remove
+directories.
+2. Explain grep
+command with
+examples.
+3. How to check
+inode number of a
+file?
+1. Explain process
+states and
+transitions.
+2. Write a shell script
+to check file
+existence.
+3. Compare FCFS
+and Round-Robin
+scheduling.
+1. Explain symbolic
+vs. numeric chmod
+methods.
+2. How to create a
+user in Linux?
+3. Describe
+/etc/passwd and
+/etc/shadow files.
+1. Explain
+redirection and
+piping with
+examples.
+2. Write a command
+to redirect output to
+a file.
+3. How does the tee
+command work? - GeeksforGeeks:
+OS Introduction - Tutorialspoint:
+OS Basics - YouTube: OS
+Overview - Linux
+Handbook: Basic
+Commands - GeeksforGeeks:
+Linux
+Commands - YouTube: Linux
+Basics - GeeksforGeeks:
+Process
+Management - Tutorialspoint:
+Shell Scripting - YouTube: Shell
+Scripting - Linux
+Handbook:
+Permissions - GeeksforGeeks:
+File Permissions - YouTube: Linux
+Users - GeeksforGeeks:
+I/O Redirection - Tutorialspoint:
+Pipes - YouTube: Linux
+Piping
+1. Write a find - Linux
+Handbook: Find
+Command
+11
+Finding and
+Processing
+Files
+2
+Notes for Preparation
+3
+5 - Locate, find
+commands - Search by
+name, size,
+permissions
+command to locate
+files by size.<
+substantiated>2.
+Explain locate vs.
+find commands.
+3. Search files
+modified in last 7
+days. - GeeksforGeeks:
+Locate
+Command - YouTube: Find
+Files
+ Focus Areas: Unit 7 (Linux Basics: 16 marks), Unit 8 (Process Management and Shell Script:
+13 marks), and Units 2, 9 (Arithmetic, Permissions: 10 marks each). These cover 49% of
+marks.
+ Practice: Set up a Linux environment (Ubuntu/VM) for hands-on practice with commands (ls,
+grep, chmod), shell scripting, and file operations. Practice binary arithmetic and addressing
+modes for Computer Organization.
+ Key Topics: Linux commands, shell scripting, process scheduling, memory hierarchy, I/O
+interrupts, floating-point representation.
+ Exam Tips: Solve MCQs on Testbook or Sanfoundry for theory. Practice Linux commands daily
+and write shell scripts for common tasks (e.g., file manipulation).
+Resource Links
+ GeeksforGeeks: https://www.geeksforgeeks.org
+ Tutorialspoint: https://www.tutorialspoint.com
+ Linux Handbook: https://linuxhandbook.com
+ YouTube Tutorials:
+o Computer Organization: https://www.youtube.com/watch?v=3lO3hkg0W0Q
+o Binary Arithmetic: https://www.youtube.com/watch?v=0qj4xD3Yz0c
+o Instruction Cycle: https://www.youtube.com/watch?v=7H7i0Y09SJU
+o Cache Memory: https://www.youtube.com/watch?v=6xWLVZ5aC2I
+o Interrupts: https://www.youtube.com/watch?v=8qS6b0u3bM4
+o OS Overview: https://www.youtube.com/watch?v=9GDX-IyZ_C8
+o Linux Basics: https:// personally,>2. Explain locate vs. find commands.
+3. Search files modified in last 7 days. | - Linux Handbook: Find Command - GeeksforGeeks: Locate Command - YouTube: Find Files |
+Notes for Preparation
+ Focus Areas: Unit 7 (Linux Basics: 16 marks), Unit 8 (Process Management and Shell Script:
+13 marks), and Units 2, 9 (Arithmetic, Permissions: 10 marks each). These cover 49% of
+marks.
+ Practice: Set up a Linux environment (Ubuntu/VM) for hands-on practice with commands (ls,
+grep, chmod), shell scripting, and file operations. Practice binary arithmetic and addressing
+modes for Computer Organization.
+ Key Topics: Linux commands, shell scripting, process scheduling, memory hierarchy, I/O
+interrupts, floating-point representation.
+ Exam Tips: Solve MCQs on Testbook or Sanfoundry for theory. Practice Linux commands daily
+and write shell scripts for common tasks (e.g., file manipulation).
+Resource Links
+ GeeksforGeeks: https://www.geeksforgeeks.org
+ Tutorialspoint: https://www.tutorialspoint.com
+ Linux Handbook: https://linuxhandbook.com
+ YouTube Tutorials:
+o Computer Organization: https://www.youtube.com/watch?v=3lO3hkg0W0Q
+o Binary Arithmetic: https://www.youtube.com/watch?v=0qj4xD3Yz0c
+o Instruction Cycle: https://www.youtube.com/watch?v=7H7i0Y09SJU
+o Cache Memory: https://www.youtube.com/watch?v=6xWLVZ5aC2I
+o Interrupts: https://www.youtube.com/watch?v=8qS6b0u3bM4
+o OS Overview: https://www.youtube.com/watch?v=9GDX-IyZ_C8
+o Linux Basics: https://www.youtube.com/watch?v=ROjZy1O1p04
+o Shell Scripting: https://www.youtube.com/watch?v=v-F3YLd6oMw
+o Linux Users: https://www.youtube.com/watch?v=6rfr4s3X6Mc
+o Linux Piping: https://www.youtube.com/watch?v=5pG4MOTUSoQ
+o Find Files: https://www.youtube.com/watch?v=2g1N8A5zOJo
+ Books:
+o Operating System Concepts by Silberschatz, Galvin, Gagne
+o Computer System Architecture by Morris Mano
+Print Instructions: Use A4 paper, portrait orientation, 10-12pt font. Ensure table borders are visible
+and text is aligned for clarity. ing Python
